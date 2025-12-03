@@ -45,7 +45,7 @@ const projects = [
     img: project06,
     skills: 'JavaScript,HTML, CSS, NPM, API, React, Mokapi',
     href: 'https://sneakers-app-kappa.vercel.app/',
-    gitHub: 'https://github.com/Asel85/pokemon',
+    gitHub: 'https://github.com/Asel85/react-sneakers',
   },
 ];
 export { projects };
