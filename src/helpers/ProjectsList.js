@@ -3,6 +3,7 @@ import project02 from './../img/projects/the-meal.png';
 import project03 from './../img/projects/gyphy.png';
 import project04 from './../img/projects/movie.png';
 import project05 from './../img/projects/pokemon.png';
+import project06 from './../img/projects/sneakers.png';
 const projects = [
   {
     title: 'beauty-web',
@@ -37,6 +38,13 @@ const projects = [
     img: project05,
     skills: 'JavaScript,HTML, CSS, NPM, API, React',
     href: 'https://pokemon-project-wheat-sigma.vercel.app/',
+    gitHub: 'https://github.com/Asel85/pokemon',
+  },
+  {
+    title: 'Sneakers-App',
+    img: project06,
+    skills: 'JavaScript,HTML, CSS, NPM, API, React, Mokapi',
+    href: 'https://sneakers-app-kappa.vercel.app/',
     gitHub: 'https://github.com/Asel85/pokemon',
   },
 ];
