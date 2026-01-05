@@ -15,7 +15,7 @@ const Header = () => {
           <p>with passion for learning and creating.</p>
         </div>
         <a
-          href="https://drive.google.com/file/d/1bpcEc6NBf4ahHA5OeCF6qC6PKSjfqEmH/view?usp=sharing"
+          href="https://drive.google.com/file/d/1HcBx1LEpXktUxJfmcTELenoKUR_7X3aD/view?usp=sharing"
           className="btn">
           Download CV
         </a>
